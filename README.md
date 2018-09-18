@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=PtAIh9KSnjo
 
 
 https://github.com/aikorea/awesome-rl
+
+https://www.youtube.com/channel/UCZvMhJ3EaNvpacdlMmm3VKA/feed
